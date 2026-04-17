@@ -13,4 +13,4 @@ jobs:
       uses: actions/checkout@v3
 
     - name: Run Python file
-      run: python app.py
+      run: python pipeline.py
